@@ -1,0 +1,6 @@
+.tracker {
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url(../misc/make-it-rain.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
